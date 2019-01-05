@@ -1,3 +1,3 @@
 2 members
-Daksha Singal      PES1201700847
-Adithya M.Vardhan  PES1201700788
+Daksha Singhal      PES1201700847
+M.Adithya Vardhan   PES1201700788
